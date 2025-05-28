@@ -10,3 +10,4 @@ resource "aws_s3_bucket" "example" {
     Env		    = "Dev"
   }
 }
+# edited by br2
